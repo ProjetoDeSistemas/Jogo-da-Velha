@@ -1,0 +1,52 @@
+C:\Users\ifsp\Desktop\Jogo da Velha\Jogo da Velha\bin\Debug\Jogo da Velha.exe
+C:\Users\ifsp\Desktop\Jogo da Velha\Jogo da Velha\bin\Debug\Jogo da Velha.pdb
+C:\Users\ifsp\Desktop\Jogo da Velha\Jogo da Velha\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\ifsp\Desktop\Jogo da Velha\Jogo da Velha\obj\x86\Debug\Jogo_da_Velha.Inicio.resources
+C:\Users\ifsp\Desktop\Jogo da Velha\Jogo da Velha\obj\x86\Debug\Jogo_da_Velha.Properties.Resources.resources
+C:\Users\ifsp\Desktop\Jogo da Velha\Jogo da Velha\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\ifsp\Desktop\Jogo da Velha\Jogo da Velha\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\ifsp\Desktop\Jogo da Velha\Jogo da Velha\obj\x86\Debug\Jogo da Velha.exe
+C:\Users\ifsp\Desktop\Jogo da Velha\Jogo da Velha\obj\x86\Debug\Jogo da Velha.pdb
+C:\Users\ifsp\Desktop\Jogo da Velha\Jogo da Velha\obj\x86\Debug\Jogo_da_Velha.Form2.resources
+C:\Documents and Settings\Usuario\Desktop\Jogo da Velha\Jogo da Velha\obj\x86\Debug\Jogo da Velha.exe
+C:\Documents and Settings\Usuario\Desktop\Jogo da Velha\Jogo da Velha\obj\x86\Debug\Jogo da Velha.pdb
+C:\Documents and Settings\Usuario\Desktop\Jogo da Velha\Jogo da Velha\bin\Debug\Jogo da Velha.exe
+C:\Documents and Settings\Usuario\Desktop\Jogo da Velha\Jogo da Velha\bin\Debug\Jogo da Velha.pdb
+C:\Documents and Settings\Usuario\Desktop\Jogo da Velha\Jogo da Velha\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Usuario\Desktop\Jogo da Velha\Jogo da Velha\obj\x86\Debug\Jogo_da_Velha.Inicio.resources
+C:\Documents and Settings\Usuario\Desktop\Jogo da Velha\Jogo da Velha\obj\x86\Debug\Jogo_da_Velha.Form2.resources
+C:\Documents and Settings\Usuario\Desktop\Jogo da Velha\Jogo da Velha\obj\x86\Debug\Jogo_da_Velha.Properties.Resources.resources
+C:\Documents and Settings\Usuario\Desktop\Jogo da Velha\Jogo da Velha\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Documents and Settings\Usuario\Desktop\Jogo da Velha\Jogo da Velha\obj\x86\Debug\GenerateResource.write.1.tlog
+E:\Semana da Ciência\Jogo da Velha\Jogo da Velha\obj\x86\Debug\Jogo da Velha.exe
+E:\Semana da Ciência\Jogo da Velha\Jogo da Velha\obj\x86\Debug\Jogo da Velha.pdb
+E:\Semana da Ciência\Jogo da Velha\Jogo da Velha\bin\Debug\Jogo da Velha.exe
+E:\Semana da Ciência\Jogo da Velha\Jogo da Velha\bin\Debug\Jogo da Velha.pdb
+E:\Semana da Ciência\Jogo da Velha\Jogo da Velha\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\Semana da Ciência\Jogo da Velha\Jogo da Velha\obj\x86\Debug\Jogo_da_Velha.Inicio.resources
+E:\Semana da Ciência\Jogo da Velha\Jogo da Velha\obj\x86\Debug\Jogo_da_Velha.Form2.resources
+E:\Semana da Ciência\Jogo da Velha\Jogo da Velha\obj\x86\Debug\Jogo_da_Velha.Properties.Resources.resources
+E:\Semana da Ciência\Jogo da Velha\Jogo da Velha\obj\x86\Debug\GenerateResource.read.1.tlog
+E:\Semana da Ciência\Jogo da Velha\Jogo da Velha\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\RAFAEL\Jogo da Velha\Jogo da Velha\obj\x86\Debug\Jogo da Velha.exe
+D:\RAFAEL\Jogo da Velha\Jogo da Velha\obj\x86\Debug\Jogo da Velha.pdb
+D:\RAFAEL\Jogo da Velha\Jogo da Velha\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\RAFAEL\Jogo da Velha\Jogo da Velha\obj\x86\Debug\Jogo_da_Velha.Inicio.resources
+D:\RAFAEL\Jogo da Velha\Jogo da Velha\obj\x86\Debug\Jogo_da_Velha.Form2.resources
+D:\RAFAEL\Jogo da Velha\Jogo da Velha\obj\x86\Debug\Jogo_da_Velha.Form3.resources
+D:\RAFAEL\Jogo da Velha\Jogo da Velha\obj\x86\Debug\Jogo_da_Velha.Properties.Resources.resources
+D:\RAFAEL\Jogo da Velha\Jogo da Velha\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\RAFAEL\Jogo da Velha\Jogo da Velha\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\RAFAEL\Jogo da Velha\Jogo da Velha\bin\Debug\Jogo da Velha.exe
+D:\RAFAEL\Jogo da Velha\Jogo da Velha\bin\Debug\Jogo da Velha.pdb
+C:\Jogo da Velha\Jogo da Velha\obj\x86\Debug\Jogo da Velha.exe
+C:\Jogo da Velha\Jogo da Velha\obj\x86\Debug\Jogo da Velha.pdb
+C:\Jogo da Velha\Jogo da Velha\bin\Debug\Jogo da Velha.exe
+C:\Jogo da Velha\Jogo da Velha\bin\Debug\Jogo da Velha.pdb
+C:\Jogo da Velha\Jogo da Velha\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Jogo da Velha\Jogo da Velha\obj\x86\Debug\Jogo_da_Velha.Inicio.resources
+C:\Jogo da Velha\Jogo da Velha\obj\x86\Debug\Jogo_da_Velha.Form2.resources
+C:\Jogo da Velha\Jogo da Velha\obj\x86\Debug\Jogo_da_Velha.Form3.resources
+C:\Jogo da Velha\Jogo da Velha\obj\x86\Debug\Jogo_da_Velha.Properties.Resources.resources
+C:\Jogo da Velha\Jogo da Velha\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Jogo da Velha\Jogo da Velha\obj\x86\Debug\GenerateResource.write.1.tlog
